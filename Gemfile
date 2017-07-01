@@ -40,3 +40,5 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'listen', '~> 3.1.5' 
 gem 'rails-controller-testing'
+
+gem 'bootstrap-sass'
