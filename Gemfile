@@ -39,3 +39,4 @@ gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/#turbolinks/turbolinks
 gem 'turbolinks'
 gem 'listen', '~> 3.1.5' 
+gem 'rails-controller-testing'
