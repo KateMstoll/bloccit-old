@@ -7,7 +7,7 @@ end
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.1.1'
+gem 'rails', '5.0'
 
 group :production do
    gem 'pg'
@@ -38,7 +38,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/#turbolinks/turbolinks
 gem 'turbolinks'
-gem 'listen', '~> 3.1.5' 
+gem 'listen', '~> 3.1.5'
 gem 'rails-controller-testing'
 
 gem 'bootstrap-sass'
