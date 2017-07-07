@@ -7,7 +7,7 @@ end
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '5.0'
+gem 'rails', '5.0.1'
 
 group :production do
    gem 'pg'
@@ -42,3 +42,4 @@ gem 'listen', '~> 3.1.5'
 gem 'rails-controller-testing'
 
 gem 'bootstrap-sass'
+gem 'rails-ujs'
