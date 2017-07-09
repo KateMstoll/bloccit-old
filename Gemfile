@@ -20,6 +20,7 @@ group :development do
 
 group :development, :test do
    gem 'rspec-rails', '~> 3.0'
+   gem 'shoulda'
  end
 
 # Use sqlite3 as the database for Active Record
